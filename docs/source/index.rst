@@ -6,45 +6,32 @@ ubml documentation
 
 ubml is a tool to automate Machine Learning
 
-.. _getting-help:
-
-Getting help
+Getting started
 ============
 
-Having trouble? We'd like to help!
+.. toctree::
+   :caption: Getting started
+   :hidden:
 
-* Checkout video tutorials: https://www.youtube.com/playlist?list=PLjowWp9YgJdop2Iz4rGuakTaDxyt4pRVM
-* Write us on email: ubaidp1049@gmail.com
-* WhatsApp me: +923484122900
+   news
+   contributing
+   versioning
+
+:doc:`getting_help`
+    See what has changed in recent Scrapy versions.
 
 Installation
 ===========
 
 .. toctree::
    :caption: Installation
-   :hidden:
 
-   pip install Scrapy
+you can install ubml using pip with::
 
-
-
+   pip install ubml
 
 
 
 
 
 
-
-
-.. toctree:: 
-   :maxdepth: 2
-   :caption: Contents:
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
