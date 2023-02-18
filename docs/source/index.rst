@@ -29,7 +29,21 @@ Getting Started
    pip install ubml
 
 
+Automation
+===========
 
+.. toctree::
+   :caption: Automation
+   :hidden:
+
+   regression
+   classification
+
+:doc:`regression`
+   Automate regression
+
+:doc:`classification`
+   Automate classification
 
 
 
