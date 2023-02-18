@@ -13,9 +13,7 @@ Getting started
    :caption: Getting started
    :hidden:
 
-   news
-   contributing
-   versioning
+   getting_help
 
 :doc:`getting_help`
     See what has changed in recent Scrapy versions.
