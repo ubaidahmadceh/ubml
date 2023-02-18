@@ -20,6 +20,9 @@ Having trouble? We'd like to help!
 Installation
 ===========
 
+.. toctree::
+   :caption: Installation
+
 you can install ubml using pip with::
 
    pip install ubml
