@@ -1,0 +1,1 @@
+ubml is an open source python package which aims to automate Machine Learning
