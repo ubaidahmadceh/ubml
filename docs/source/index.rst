@@ -41,5 +41,7 @@ First steps
    intro/tutorial
    intro/examples
 
+:doc:`news`
+    See what has changed in recent Scrapy versions.
 
 
