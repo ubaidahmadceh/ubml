@@ -20,31 +20,10 @@ Having trouble? We'd like to help!
 Installation
 ===========
 
-.. toctree::
-   :caption: Installation
-   :hidden:
+you can install ubml using pip with::
 
-   pip install Scrapy
+   pip install ubml
 
 
 
 
-
-
-
-
-
-
-
-.. toctree:: 
-   :maxdepth: 2
-   :caption: Contents:
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
