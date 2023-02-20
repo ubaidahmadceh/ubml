@@ -9,6 +9,8 @@ ubml is a tool to automate Machine Learning
 Getting Started
 ===========
 
+Hi I am ubaid
+
 .. toctree::
    :caption: Getting Started
    :hidden:
@@ -38,12 +40,16 @@ Automation
 
    regression
    classification
+   model_train_test
 
 :doc:`regression`
    Automate regression
 
 :doc:`classification`
    Automate classification
+
+:doc:`model_train_test`
+   Model Train and Test (regression or classification)
 
 
 
