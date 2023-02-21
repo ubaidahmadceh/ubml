@@ -1,6 +1,6 @@
 .. _classification:
 
-classification
+Classification
 ============
 
 Import Statement::

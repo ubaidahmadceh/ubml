@@ -28,7 +28,7 @@ Hi I am ubaid
 :doc:`installation`
    you can install ubml using pip with::
 
-   pip install ubml
+      pip install ubml
 
 
 Automation
@@ -41,6 +41,8 @@ Automation
    regression
    classification
    model_train_test
+   load_model
+   prediction
 
 :doc:`regression`
    Automate regression
@@ -50,6 +52,12 @@ Automation
 
 :doc:`model_train_test`
    Model Train and Test (regression or classification)
+
+:doc:`load_model`
+   Load model to perform predictions
+
+:doc:`prediction`
+   Perform predictions based on inputs
 
 
 

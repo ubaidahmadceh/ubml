@@ -1,6 +1,6 @@
 .. _model_train_test:
 
-model_train_test
+Model Train Test
 ============
 
 Import Statement::
