@@ -1,6 +1,14 @@
-# Installation
+**Installation:** 
+````
 pip install ubml
+````
 
+**Documentation:** https://ubml.readthedocs.io/en/latest/ 
+
+**Video Tutorials:** https://www.youtube.com/playlist?list=PLjowWp9YgJdop2Iz4rGuakTaDxyt4pRVM  
+
+**Getting Help:** WhatsApp: +923484122900 | Email: ubaidp1049@gmail.com
+ 
 ### Hi there 👋 This is codespace from open source project ubml (A tool to automate Machine Learning)
 
 I am Ubaid, working as a Data Scientist in a private firm and I do teach online. So I can help with your coursework and projects related to Artificial Intelligence, Data Science, Machine Learning and Deep Learning. I can work with libraries like numpy, pandas for Data Wrangling, matplotlib, seaborn for Data Visualization, sikit-learn, tensorflow, keras for Model Creation and Validation.
@@ -28,6 +36,4 @@ Thanks!
   </div>
 </div>
 
-WhatsApp: +923484122900
 
-Email: ubaidp1049@gmail.com
